@@ -1,4 +1,4 @@
-import {StyleSheet} from 'react-native';
+import {Dimensions, StyleSheet} from 'react-native';
 
 export const styles = StyleSheet.create({
   appName: {
@@ -8,12 +8,10 @@ export const styles = StyleSheet.create({
     color: 'green',
   },
   scrollView: {
-    backgroundColor: 'pink',
-    height: 400,
+    backgroundColor: 'grey',
   },
-  engine: {
-    position: 'absolute',
-    right: 0,
+  recipeCard: {
+    width: Dimensions.get('window').width - 70,
   },
   body: {
     backgroundColor: 'white',

@@ -2,7 +2,7 @@ import React from 'react';
 import {Text} from 'react-native';
 import {styles} from '../styles.js';
 
-function CardItem({key, ingredients, recipe, recipeName}) {
+function RecipeCardItem({key, ingredients, recipe, recipeName}) {
   return (
     <>
       <Text style={styles.sectionSubTitle}>{recipeName}</Text>
@@ -16,9 +16,8 @@ function CardItem({key, ingredients, recipe, recipeName}) {
         Instructions:{'\n'}
         {recipe}
       </Text>
-      <Text>{'\n'}</Text>
     </>
   );
 }
 
-export default CardItem;
+export default RecipeCardItem;
