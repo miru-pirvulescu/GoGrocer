@@ -5,9 +5,11 @@ import {styles} from '../styles.js';
 import RecipeCardItem from './RecipeCardItem';
 
 function openModal() {
-  <Modal>
-    <Text>Hello</Text>
-  </Modal>;
+  return (
+    <Modal>
+      <Text>Hello</Text>
+    </Modal>
+  );
 }
 
 export default function RecipeCard({key, recipe, recipeName}) {
@@ -17,7 +19,7 @@ export default function RecipeCard({key, recipe, recipeName}) {
         containerStyle={styles.recipeCard}
         title={recipeName}
         image={require('../../assets/img/test.png')}>
-        <Button title="View recipe" />
+        <Button title="View recipe" onPress={() => openModal()} />
       </Card>
     </>
   );

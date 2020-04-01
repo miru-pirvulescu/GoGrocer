@@ -1,305 +1,327 @@
 {
-    "author":"Silvia N. Mirica",
-    "bookName":"recipes",
     "contents":[
         {
             "key":1,
             "recipeName":"Green Smoothie",
-            "ingredients":
-                    {"banana":"1/2",
-                    "peanut butter":"1 tsp",
-                    "baby spinach":"1 cup",
-                    "non-diary milk":"1/4 cup",
-                    "oats":"2 Tbsp",
-                    "water":"after taste"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "banana":"1/2",
+                "peanut butter":"1 tsp",
+                "baby spinach":"1 cup",
+                "non-diary milk":"1/4 cup",
+                "oats":"2 Tbsp",
+                "water":"after taste"
+            },
             "recipe":"Blend"
         },
         {
             "key":2,
             "recipeName":"Berry Nut Smoothie",
-            "ingredients":
-                    {"strawberries":"1 cup",
-                    "peanut butter":"1 Tbsp",
-                    "blueberries":"1/2 cup",
-                    "non-diary milk":"1/4 cup",
-                    "oats":"2 Tbsp"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "strawberries":"1 cup",
+                "peanut butter":"1 Tbsp",
+                "blueberries":"1/2 cup",
+                "non-diary milk":"1/4 cup",
+                "oats":"2 Tbsp"
+            },
             "recipe":"Blend"
         },
         {
             "key":3,
             "recipeName":"Vanilla Poppy Raspberry Smoothie",
-            "ingredients":
-                    {"vanilla":"1/2 bar",
-                    "milk":"50 ml",
-                    "brown sugar":"1/2 tsp",
-                    "poppy seeds":"1/2 Tbsp",
-                    "yogurt":"150 g",
-                    "raspberries":"150 g",
-                    "orange juice":"25 ml"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "vanilla":"1/2 bar",
+                "milk":"50 ml",
+                "brown sugar":"1/2 tsp",
+                "poppy seeds":"1/2 Tbsp",
+                "yogurt":"150 g",
+                "raspberries":"150 g",
+                "orange juice":"25 ml"
+            },
             "recipe":"Blend"
         },
         {
             "key":4,
             "recipeName":"Berry Spinach Smoothie",
-            "ingredients":
-                    {"chia seeds":"1 Tbsp",
-                    "banana":"1/2",
-                    "baby spinach":"1 cup",
-                    "wild berry mix":"1 cup",
-                    "non-diary milk":"1/2 cup"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "chia seeds":"1 Tbsp",
+                "banana":"1/2",
+                "baby spinach":"1 cup",
+                "wild berry mix":"1 cup",
+                "non-diary milk":"1/2 cup"
+            },
             "recipe":"Blend"
         },
         {
             "key":5,
             "recipeName":"Apple Date Kefir Smoothie",
-            "ingredients":
-                    {"apple":"1",
-                    "honey":"1/2 Tbsp",
-                    "dates":"7",
-                    "kefir":"1/2 cup"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "apple":"1",
+                "honey":"1/2 Tbsp",
+                "dates":"7",
+                "kefir":"1/2 cup"
+            },
             "recipe":"Blend"
         },
         {
             "key":6,
             "recipeName":"Good Morning Smoothie",
-            "ingredients":
-                    {"peaches":"1",
-                    "orange":"1+1/2",
-                    "banana":"1/2",
-                    "oats":"1/2 Tbsp",
-                    "vanilla yogurt":"125 g",
-                    "ice":"2-3 cubes"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "peaches":"1",
+                "orange":"1+1/2",
+                "banana":"1/2",
+                "oats":"1/2 Tbsp",
+                "vanilla yogurt":"125 g",
+                "ice":"2-3 cubes"
+            },
             "recipe":"Blend"
         },
         {
             "key":7,
             "recipeName":"Apple Blueberry Smoothie",
-            "ingredients":
-                    {"apple":"1",
-                    "blueberries":"1 cup",
-                    "peanut butter":"2 Tbsp",
-                    "non-diary milk":"1/2 cup",
-                    "water":"after taste"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "apple":"1",
+                "blueberries":"1 cup",
+                "peanut butter":"2 Tbsp",
+                "non-diary milk":"1/2 cup",
+                "water":"after taste"
+            },
             "recipe":"Blend"  
         },
         {
             "key":8,
             "recipeName":"Fresh Spinach Smoothie",
-            "ingredients":
-                    {"wild berry mix":"1/2 cup",
-                    "banana":"1/2",
-                    "peanut butter":"2 Tbsp",
-                    "baby spinach":"1 cup",
-                    "non-diary milk":"1/2 cup",
-                    "water":"after taste"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "wild berry mix":"1/2 cup",
+                "banana":"1/2",
+                "peanut butter":"2 Tbsp",
+                "baby spinach":"1 cup",
+                "non-diary milk":"1/2 cup",
+                "water":"after taste"
+            },
             "recipe":"Blend" 
         },
         {
             "key":9,
             "recipeName":"Sweet & Sour Smoothie",
-            "ingredients":
-                    {"lemon juice":"After taste",
-                    "apple":"1",
-                    "honey":"1 tsp",
-                    "nectarine":"1"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "lemon juice":"After taste",
+                "apple":"1",
+                "honey":"1 tsp",
+                "nectarine":"1"
+            },
             "recipe":"Blend" 
         },
         {
             "key":10,
             "recipeName":"Fruit & Vanilla Smoothie",
-            "ingredients":
-                    {"milk 1.5%":"100 ml",
-                    "fruit":"200 g",
-                    "vanilla stick":"1"}
-                ,
+            "tags":["smoothie", "breakfast"],
+            "ingredients":{
+                "milk 1.5%":"100 ml",
+                "fruit":"200 g",
+                "vanilla stick":"1"
+            },
             "recipe":"Blend" 
         },
         {
             "key":11,
             "recipeName":"Omelet & vegetables",
-            "ingredients":
-                    {"eggs":"2",
-                    "baby spinach":"1/2 cup",
-                    "cherry tomatoes":"1/2 cup",
-                    "coconut oil":"1 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+            "tags":["eggs", "breakfast"],
+            "ingredients":{
+                "eggs":"2",
+                "baby spinach":"1/2 cup",
+                "cherry tomatoes":"1/2 cup",
+                "coconut oil":"1 tsp",
+                "salt, pepper":"after taste"
+            },
             "recipe":"Mix the eggs with salt and pepper in a bowl. In a pan, sauté the spinach and the tomatoes until soft, then pour the eggs. Leave to cook for 2-3 minutes and flip."
         },
         {
             "key":12,
-            "recipeName":"\u201cEnergy\u201d Omelet",
-            "ingredients":
-                    {"bacon":"1 slice",
+            "recipeName":"\"Energy\" Omelet",
+            "tags":["eggs", "breakfast"],
+            "ingredients":{
+                    "bacon":"1 slice",
                     "eggs":"2",
                     "cherry tomatoes":"4",
                     "green bell pepper":"1/4 cup",
                     "onion":"1/4 cup",
                     "baby spinach":"1/4 cup",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            },
             "recipe":"Cut the bacon in thin rashes and cook until crispy. Add the vegetables and sauté until soft. Add salt and pepper, then the eggs. Mix until the eggs cook."
         },
         {
             "key":13,
             "recipeName":"Omelet with avocado",
-            "ingredients":
-                    {"eggs":"2",
+            "tags":["eggs", "breakfast"],
+            "ingredients":{
+                    "eggs":"2",
                     "bell pepper":"1/2 cup",
                     "chili powder":"after taste",
                     "avocado":"1/4",
                     "coconut oil":"1 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            },
             "recipe":"Mix the eggs with salt and pepper in a bowl. Sauté the peppers in a pan until they soften then pour the eggs. Leave to cook for 2-3 minutes. Add avocado cubes and serve hot."
         },
         {
             "key":14,
-            "recipeName":"\u201cFiesta\u201d Eggs",
-            "ingredients":
-                    {"coconut oil":"1 tsp",
+            "recipeName":"\"Fiesta\" Eggs",
+            "tags":["eggs", "breakfast"],
+            "ingredients":{
+                    "coconut oil":"1 tsp",
                     "eggs":"2",
                     "green bell pepper":"1/4 cup",
                     "onion":"1/4 cup",
                     "salsa":"1/4 cup",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Heat up the pan and add the onion and pepper. Sauté until soft then add salt, pepper, and eggs. Mix the ingredients until the eggs cook. Serve with salsa."
         },
         {
             "key":15,
             "recipeName":"Antioxidant Breakfast",
-            "ingredients":
-                    {"blackberries":"50 g",
+            "tags":["breakfast"],
+            "ingredients":{
+                    "blackberries":"50 g",
                     "raspberries":"50 g",
                     "blueberries":"50 g",
                     "yogurt 2%":"1 box",
-                    "oats":"3 Tbsp"}
-                ,
+                    "oats":"3 Tbsp"
+            }, 
             "recipe":"Mix and serve."
         },
         {
             "key":16,
             "recipeName":"Delicious breakfast with cheese & fruit",
-            "ingredients":
-                    {"cantaloupe":"100 g",
+            "tags":["breakfast"],
+            "ingredients":{
+                    "cantaloupe":"100 g",
                     "apricots":"100 g",
                     "sweet cheese":"50 g",
                     "honey":"1/2 tsp",
                     "mint leaves":"1",
                     "vanilla/almond essence":"1-2 drop",
-                    "nutmeg, cinnamon":"after taste"}
-                ,
+                    "nutmeg, cinnamon":"after taste"
+            }, 
             "recipe":"Clean the fruit and blend with the cheese, honey, and condiments. Serve with cantaloupe slices and mint leaves."
         },
         {
             "key":17,
             "recipeName":"Tropical salad",
-            "ingredients":
-                    {"mango":"75 g",
+            "tags":["breakfast", "salad"],
+            "ingredients":{
+                    "mango":"75 g",
                     "pineapple":"100 g",
                     "coconut flakes":"1/2 Tbsp",
-                    "yogurt":"1/2 box"}
-                ,
+                    "yogurt":"1/2 box"
+            }, 
             "recipe":"Cut the fruit and mix with yogurt. Serve with coconut flakes on top."
         },
         {
             "key":18,
             "recipeName":"Apple nut crepes",
-            "ingredients":
-                    {"apple":"1",
+            "tags":["breakfast", "crepes"],
+            "ingredients":{
+                    "apple":"1",
                     "coconut oil":"1 tsp",
                     "minced nuts":"1 tsp",
                     "eggs":"2",
-                    "cinnamon":"1/4 tsp"}
-                ,
+                    "cinnamon":"1/4 tsp"
+            }, 
             "recipe":"Heat up some oil n the pan and mix the apple, nuts, and cinnamon until the apple cooks. Mix 3 eggs and put them in the pan. Leave until the egg cooks."
         },
         {
             "key":19,
             "recipeName":"Salsa for Fiesta Omelet",
-            "ingredients":
-                    {"onion":"1",
+            "tags":["sauces"],
+            "ingredients":{
+                    "onion":"1",
                     "chili pepper":"2",
                     "tomatoes":"2",
                     "green bell pepper":"1/3",
                     "whole garlic":"2",
                     "salt, pepper":"after taste",
                     "lemon juice":"1 tsp",
-                    "parsley":"1 bundle"}
-                ,
+                    "parsley":"1 bundle"
+            }, 
                 "recipe":"Blend and store in the fridge."
         },
         {
             "key":20,
             "recipeName":"Cauliflower with chicken and mushrooms",
-            "ingredients":
-                    {"chicken breast":"100 g",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "chicken breast":"100 g",
                     "cauliflower":"100 g",
                     "white mushrooms":"100 g",
                     "olive oil":"1/2 tsp",
                     "salt, pepper, parsley":"after taste",
-                    "parmesan":"1/2 tsp"}
-                ,
+                    "parmesan":"1/2 tsp"
+            }, 
             "recipe":"Cut the chicken breast into cubes. Clean the mushrooms in thin slices.\nIn a pan, heat the olive oil, then add the chicken for 2-3 minutes. Add the mushrooms and leave on low heat. Leave for 5 minutes.\nBoil the cauliflower, then leave it in salted water for 5 minutes. Pour over the chicken in the pan. After mushrooms cooked, put some salt, pepper, and chili after taste. Serve with parmesan and parsley."
         },
         {
             "key":21,
             "recipeName":"Chicken Bruschetta",
-            "ingredients":
-                    {"chicken breast":"1",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "chicken breast":"1",
                     "tomatoes":"2",
                     "garlic":"1 clove",
                     "onion":"1/8",
                     "olive oil":"1/2 tsp",
                     "balsamic vinegar":"1/2 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Preheat the oven at 200°C. Condiment the chicken with salt and pepper then put it on a baking tray. Bake for 35-40 minutes.\nIn the meantime, mix the diced vegetables in a bowl. Leave in the fridge until the chicken is cooked then pour the mix over it."
         },
         {
             "key":22,
             "recipeName":"Oven chicken with vegetables",
-            "ingredients":
-                    {"chicken breast":"1",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "chicken breast":"1",
                     "broccoli":"1/2 cup",
                     "sweet potato":"1/2 cup",
                     "cauliflower":"1/2 cup",
                     "mushrooms":"2",
                     "coconut oil":"1/2 tsp",
                     "garlic":"1 clove",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Preheat the oven at 200°C, mix the diced vegetables with the melted coconut oil in a bowl. Add salt, pepper, and other condiments after taste.\nCondiment the chicken with salt and pepper, then place on baking paper. Place the vegetables next to the meat and bake for 35-40 minutes. Until everything is cooked."
         },
         {
             "key":23,
             "recipeName":"Chicken pan with vegetables",
-            "ingredients":
-                    {"chicken breast":"125 g",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "chicken breast":"125 g",
                     "broccoli":"1/2 cup",
                     "red bell pepper":"1/2",
                     "carrot":"1",
                     "salt, pepper":"after taste",
                     "coconut oil":"1 tsp",
-                    "garlic":"3 cloves"}
-                ,
+                    "garlic":"3 cloves"
+            }, 
             "recipe":"Heat the coconut oil in a pan, then add the diced chicken. Cook until the meat is well done and put on a plate. In the same pan with the leftover oil, add the broccoli, bell pepper, carrots and the diced garlic, cook until soft. When the vegetables have the desired consistency (a bit crispy preferred), add the chicken and condiments, then cook for another 2-3 minutes."
         },
         {
             "key":24,
             "recipeName":"Chicken Stew",
-            "ingredients":
-                    {"chicken breast":"125 g",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "chicken breast":"125 g",
                     "carrot":"1",
                     "celery":"1/2 ",
                     "garlic":"1 clove",
@@ -307,151 +329,162 @@
                     "chicken soup":"\u2154 cup",
                     "parsley":"1/4 bundle",
                     "dill":"1/4 bundle",
-                    "tomato sauce":"1/2 cup"}
-                ,
+                    "tomato sauce":"1/2 cup"
+            }, 
             "recipe":"Simmer all the ingredients on low heat until you get a stew with sauce.\nServe with polenta or rice if lunchtime, by itself if dinner."
         },
         {
             "key":25,
             "recipeName":"Mexican Casserole",
-            "ingredients":
-                    {"white minced meat":"250 g",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "white minced meat":"250 g",
                     "taco seasoning":"1/2 Tbsp",
                     "white cabbage":"1/2 ",
                     "salsa":"1/2 Tbsp",
                     "avocado":"1/4",
-                    "coconut oil":"1 tsp"}
-                ,
+                    "coconut oil":"1 tsp"
+            }, 
             "recipe":"Fry the minced meat in a pan. Add the taco mix and cook for 2-3 minutes.\nServe with cabbage/kale, avocado, and salsa."
         },
         {
             "key":26,
             "recipeName":"Lime & Herb Chicken ",
-            "ingredients":
-                    {"chicken breast":"1",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "chicken breast":"1",
                     "garlic":"2 cloves",
                     "lime":"2/3 Tbsp",
                     "condiments":"after taste",
-                    "coconut oil":"1 tsp"}
-                ,
+                    "coconut oil":"1 tsp"
+            }, 
             "recipe":"Combine all the condiments in one bowl. Marinate the chicken with this mix and leave for 10 minutes to absorb.\nHeat the coconut oil in a pan and add the marinated chicken. Cook 6 minutes on each side or until it turns golden. Add the garlic and lime juice and cook for another 5 minutes, flipping to cover the chicken in sauce."
         },
         {
             "key":27,
             "recipeName":"Provencal Chicken Thigh in Foil",
-            "ingredients":
-                    {"chicken thigh":"100 g",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "chicken thigh":"100 g",
                     "squash":"200 g",
                     "cherry tomatoes":"100 g",
                     "kalamata olives":"10",
                     "salt, pepper":"after taste",
-                    "condiments":"after taste"}
-                ,
+                    "condiments":"after taste"
+            }, 
             "recipe":"On a tray, place a piece of baking paper and put the squash on it to form a bed. Add the chicken, tomatoes, and olives. Roll the paper such that it encapsulates all the food and bake for 20 minutes."
         },
         {
             "key":28,
             "recipeName":"Chicken Breast Skewers with Cucumber Salad",
-            "ingredients":
-                    {"chicken thigh":"100 g",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "chicken thigh":"100 g",
                     "cucumber":"1/3",
                     "onion":"1/4 ",
                     "green onion ":"1/2 bundle",
                     "lemon juice":"1 Tbsp",
-                    "condiments":"after taste"}
-                ,
+                    "condiments":"after taste"
+            }, 
             "recipe":"Dice the chicken and vegetables. Stick them on skewers so that they alternate, then grill for 3-4 minutes on each side.\nCut the cucumber in stick and add the green onion, salt, pepper, lemon juice and the dill."
         },
         {
             "key":29,
             "recipeName":"Grilled Chicken Livers with Broccoli Salad",
-            "ingredients":
-                    {"liver":"125 g",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "liver":"125 g",
                     "broccoli":"100 g",
                     "tomatoes":"50 g",
                     "green onion":"1/2 bundle",
                     "yogurt":"1/4 box",
                     "raisins":"2 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Serve with 100g of quinoa or rice (if served for lunch, otherwise serve as it is).\nWash the livers and grill for 3 minutes on each side, then season with salt and leave aside for a few minutes.\nSplit the broccoli in florets and boil for 5 minutes in salted water.\nMake the dressing out of yogurt, green onion, and finely diced garlic.\nMix the broccoli diced tomatoes, then add the dressing and raisins."
         },
         {
             "key":30,
             "recipeName":"Chicken with lemon",
-            "ingredients":
-                    {"chicken breast":"150 g",
+            "tags":["chicken", "main"],
+            "ingredients":{
+                    "chicken breast":"150 g",
                     "salt, pepper":"after taste",
                     "flour":"1/2 Tsp",
                     "chili powder":"1 tsp",
                     "lemon":"1/4",
                     "olive oil":"1 tsp",
                     "parsley":"1/8 bundle",
-                    "tarragon":"1 pinch"}
-                ,
+                    "tarragon":"1 pinch"
+            }, 
             "recipe":"Season the meat with salt, pepper, and chili powder, then cover in flour.\nFry in the heated olive until a crust forms (about 4 minutes per side). Add the aromatic herbs, lemon juice, and some lemon slices.\nServe with lettuce."
         },
         {
             "key":31,
             "recipeName":"Chicken Salad Wraps",
-            "ingredients":
-                    {"chicken":"120 g",
+            "tags":["chicken", "main", "wraps"],
+            "ingredients":{
+                    "chicken":"120 g",
                     "salt, pepper, paprika, garlic powder":"after taste",
                     "thyme, parsley":"1/8 tsp",
                     "coconut oil":"1 tsp",
                     "garlic":"4 cloves",
                     "lime juice":"1+1/2 Tbsp",
                     "wrap":"1",
-                    "grilled vegetables":"1"}
-                ,
+                    "grilled vegetables":"1"
+            }, 
             "recipe":"Heat the coconut oil in a pan and add the marinated chicken for 6 minutes per side. Add the garlic and lime juice and cook for another 5 minutes, flipping constantly to absorb the juices.\nHeat the wrap on the pan for a few seconds until soft, then place the chicken and grilled veggies inside and roll."
         },
         {
             "key":32,
             "recipeName":"Chicken & Crepes",
-            "ingredients":
-                    {"chicken breast":"100 g",
+            "tags":["chicken", "main", "crepes"],
+            "ingredients":{
+                    "chicken breast":"100 g",
                     "milk":"50 ml",
                     "cottage cheese":"50 g",
                     "quail eggs":"1",
                     "green bell pepper":"100 g",
                     "flour":"10 g",
-                    "tarragon, dill, salt, pepper":"after taste"}
-                ,
+                    "tarragon, dill, salt, pepper":"after taste"
+            }, 
             "recipe":"Mix the quail eggs, milk, flour, and dry condiments for the pancake batter.\nIn a pan, cook the diced bell pepper and chicken with 1Tbsp of water under the lid until cooked, then add the condiments.\nMake the crepes, add the chicken and pepper mix, roll and enjoy!"
         },
         {
             "key":33,
             "recipeName":"Turkey Burger",
-            "ingredients":
-                    {"turkey mince":"125 g",
+            "tags":["turkey", "main", "burgers"],
+            "ingredients":{
+                    "turkey mince":"125 g",
                     "salt":"1/4 tsp",
                     "piper":"1/4 tsp",
                     "chili powder":"1/4 tsp",
                     "garlic powder":"1/8 tsp",
-                    "cayenne":"1/8 tsp"}
-                ,
+                    "cayenne":"1/8 tsp"
+            }, 
             "recipe":"Mix the condiments, then add to the minced meat and mix. Grill and serve with salad."
         },
         {
             "key":34,
             "recipeName":"Zucchini Spaghetti & Spinach Turkey Meatballs",
-            "ingredients":
-                    {"zucchini":"1/3",
+            "tags":["turkey", "main", "zucchini"],
+            "ingredients":{
+                    "zucchini":"1/3",
                     "coconut oil":"1 tsp",
                     "salt, pepper":"after taste",
                     "spinach":"2/3 cup",
                     "turkey mince":"150 g",
                     "eggs":"1/4 ",
-                    "garlic powder, basil, oregano":"1/2 tsp mix"}
-                ,
+                    "garlic powder, basil, oregano":"1/2 tsp mix"
+            }, 
             "recipe":"Shred the squash finely or grate, whatever you find easier for giving a spaghetti shape.\nHeat the oil in an anti-adherent pan and cook the spaghetti, salt, and pepper in it at moderate heat. Flip a couple times on each side to avoid burning.\nSeparately, cook the spinach a little in coconut oil until if becomes soft and let chill.\nPreheat the oven at 200°C and place a piece of baking paper on a tray.\nMix the flour with the mince, eggs, and condiments in a bowl. Make the meatballs in the size you desire.\nBake for 25-30 minutes."
         },
         {
             "key":35,
             "recipeName":"Turkey Chili",
-            "ingredients":
-                    {"butter":"1/2 tsp",
+            "tags":["turkey", "main", "hot"],
+            "ingredients":{
+                    "butter":"1/2 tsp",
                     "turkey mince":"45 g",
                     "salt, pepper":"after taste",
                     "red bell pepper":"1/4 cup",
@@ -463,71 +496,76 @@
                     "cayenne pepper":"1 pinch",
                     "tomatoes":"1/2 cup",
                     "chicken cube":"1/2 cup",
-                    "bay":"1 leaf"}
-                ,
+                    "bay":"1 leaf"
+            }, 
             "recipe":"Dice the red bell pepper, onion, tomato, and celery, crush the garlic with a knife blade.\nHeat half the quantity of butter in a tall pan. Add the mince and season after taste with salt and black pepper. While cooking the meat until done, split the mince finely. Place in a bowl after cooking and cover to keep hot.\nAdd the rest of the butter and the diced vegetables, without the tomatoes. Cook for 3-4 minutes until soft, then add the hot condiments (chili and pepper), continuously stirring for a minute.\nIncrease the heat to moderate, add the tomatoes, chicken soup, and bay leaves. Boil at high heat. Reduce again to moderate and cook for about 15 minutes without a lid. Add the mince and cook for another 5 minutes to mix. Remove bay leaf and serve."
         },
         {
             "key":36,
             "recipeName":"Vegetables and Dietetic Turkey Meatballs",
-            "ingredients":
-                    {"turkey mince":"120g",
+            "tags":["turkey", "main"],
+            "ingredients":{
+                    "turkey mince":"120g",
                     "potato":"1 mic",
                     "carrot":"1/4",
                     "eggs":"1/4",
                     "flour":"1 Tbsp",
                     "parsley":"1/2 tsp",
                     "oregano":"1/2 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Preheat the oven at 190°C.\nGrate the potato and carrot, then mix in a bowl with all the other ingredients.\nMake some balls the size of a golf ball and bake for about 40 minutes (in a glass tray preferably)."
         },
         {
             "key":37,
             "recipeName":"Turkey Fajitas",
-            "ingredients":
-                    {"turkey breast":"125 g",
+            "tags":["turkey", "main", "wraps"],
+            "ingredients":{
+                    "turkey breast":"125 g",
                     "tomatoes":"100 g",
                     "onion":"1/2",
                     "green bell pepper":"1/2",
                     "parsley":"1/4 bundle",
                     "lemon juice":"25 ml",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Shred the turkey breast and cook. Add the bell pepper and onion shreds and cook for another 5 minutes. Add the diced tomatoes and lemon juice for another 2 minutes.\nServe with fresh parsley."
         },
         {
             "key":38,
             "recipeName":"Turkey breast with Capers Sauce & Spinach salad",
-            "ingredients":
-                    {"turkey breast":"100 g",
+            "tags":["turkey", "main"],
+            "ingredients":{
+                    "turkey breast":"100 g",
                     "spinach":"120 g",
                     "capers":"25 g",
                     "butter":"5 g",
                     "lemon juice":"after taste",
-                    "mint, salt, pepper":"after taste"}
-                ,
+                    "mint, salt, pepper":"after taste"
+            }, 
             "recipe":"Grill the turkey breast.\nMelt the butter at low heat in a pan and add the capers, lemon juice, salt and pepper. Cook for a little bit and pour over the chicken.\nWash the fresh spinach and serve as a salad with lemon juice, salt, pepper and balsamic vinegar."
         },
         {
             "key":39,
             "recipeName":"Pork & Veggie Wok",
-            "ingredients":
-                    {"pork steak":"125 g",
+            "tags":["pork", "main"],
+            "ingredients":{
+                    "pork steak":"125 g",
                     "white mushrooms":"100 g",
                     "bell pepper":"1/2",
                     "leek ":"1/4",
                     "soy sauce":"1 Tbsp",
                     "garlic":"1 clove",
-                    "ginger, chili flakes, salt, pepper, parsley\n":"after taste"}
-                ,
+                    "ginger, chili flakes, salt, pepper, parsley\n":"after taste"
+            }, 
             "recipe":"Dice the pork in cubes about 1cm thick.\nAdd 1 Tbsp of water to the wok and stew the garlic and grated ginger, then add the pork and roast for about 5 minutes. Add the shredded veggies and leave for another 5 minutes until they soften. Sprinkle some soy sauce and serve with freshly diced parsley."
         },
         {
             "key":40,
             "recipeName":"Smoked Salmon with Vegetables",
-            "ingredients":
-                    {"smoked salmon":"50 g",
+            "tags":["fish", "salmon", "main"],
+            "ingredients":{
+                    "smoked salmon":"50 g",
                     "green beans":"50 g",
                     "carrot":"50 g",
                     "asparagus":"50 g",
@@ -538,15 +576,16 @@
                     "sour cream":"1/2 Tbsp",
                     "olive/sesame oil":"1 tsp",
                     "salt, pepper":"after taste",
-                    "rice":"50 g"}
-                ,
+                    "rice":"50 g"
+            }, 
             "recipe":"Start boiling the rice before cooking the food as it will take about 10 minutes to prepare everything else.\nHeat the oil in the wok and add the diced garlic and chili.\nAdd the veggies and cook for about 2 minutes.\nAdd the diced green onion and soy sauce and leave for another minute, then add the salmon.\nStir and serve with rice."
         },
         {
             "key":41,
             "recipeName":"Tuna muffins (12)",
-            "ingredients":
-                    {"feta":"75 g",
+            "tags":["tuna", "fish", "snacks", "muffins"],
+            "ingredients":{
+                    "feta":"75 g",
                     "tuna in brine":"100 g",
                     "green bell pepper":"1/2 ",
                     "cherry tomatoes":"100 g",
@@ -554,55 +593,59 @@
                     "mushrooms champignon brown":"5",
                     "eggs":"6",
                     "Greek yogurt":"6 Tbsp",
-                    "salt, pepper, parsley, dill":"after taste"}
-                ,
+                    "salt, pepper, parsley, dill":"after taste"
+            }, 
             "recipe":"Preheat the oven at 160°C. Place the papers in the muffin tray.\nDice and place the dried tuna and feta in a bowl and mix.\nDice the vegetables finely, add in a bowl and stir.\nMix the eggs, yogurt, salt, pepper and leaves, then mix it all together.\nPlace in muffin papers and bake for about 20 minutes.\nServe hot."
         },
         {
             "key":42,
             "recipeName":"Mediterranean Grilled Fish",
-            "ingredients":
-                    {"bream":"175 g",
+            "tags":["fish", "bream", "main"],
+            "ingredients":{
+                    "bream":"175 g",
                     "rucola":"25 g",
                     "Green salad":"25 g",
                     "garlic":"1 clove",
                     "olive oil":"1 tsp",
                     "lime juice":"1 tsp",
-                    "salt, pepper, parsley, dill, basil":"after taste"}
-                ,
+                    "salt, pepper, parsley, dill, basil":"after taste"
+            }, 
             "recipe":"Make pesto out of the diced leaves in a mortar and add the minced garlic, olive oil, and lime juice. Crush until mixed.\nPut the pesto on the cleaned bream. Leave for 20-30 minutes in the fridge. Grill for 3-4 minutes on each side and serve with rucola."
         },
         {
             "key":43,
             "recipeName":"Wok Smoked Salmon with Vegetables",
-            "ingredients":
-                    {"smoked salmon":"75 g",
+            "tags":["fish", "salmon", "main"],
+            "ingredients":{
+                    "smoked salmon":"75 g",
                     "green beans":"50 g",
                     "carrot":"50 g",
                     "green onion":"1/2 bundle",
                     "soy sauce":"2 Tbsp",
                     "chili pepper":"1/2 ",
                     "garlic":"1 clove",
-                    "sesame oil":"1 tsp"}
-                ,
+                    "sesame oil":"1 tsp"
+            }, 
             "recipe":"Clean the fresh asparagus, remove the harder bit, and boil with the carrots and green beans for about 5 minutes.\nIn a wok, heat the oil and add the crushed garlic, chili, and soy sauce, and cook the vegetables for another 2-3 minutes.\nServe this mix with the smoked salmon and sprinkle some fine green onion bits."
         },
         {
             "key":44,
             "recipeName":"Baked French Salmon",
-            "ingredients":
-                    {"salmon":"150g",
+            "tags":["fish", "salmon", "main"],
+            "ingredients":{
+                    "salmon":"150g",
                     "fennel":"1/2 bulb",
                     "sour cream":"30g",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Preheat the oven at 180°C.\nWash and shred the fennel, mix with sour cream, salt and pepper, then place in a glass tray as a bed. Place the salmon on top and cover with aluminum foil. Bake for 15 minutes.\nServe with green leaves."
         },
         {
             "key":45,
             "recipeName":"Penne Arrabiata with vegetables",
-            "ingredients":
-                    {"penne":"125 g",
+            "tags":["pasta", "main", "vegetarian", "vegan", "hot"],
+            "ingredients":{
+                    "penne":"125 g",
                     "onion":"1",
                     "garlic":"1 clove",
                     "chili":"1",
@@ -612,44 +655,47 @@
                     "white wine":"50 ml",
                     "salt, pepper, lemon juice":"after taste",
                     "sugar":"1/4 tsp",
-                    "tomato paste":"1 tsp"}
-                ,
+                    "tomato paste":"1 tsp"
+            }, 
             "recipe":"Boil the pasta 2 minutes less than it says on the packet (later the pasta will be added in the sauce and cook there for a bit as well).\nDice the onion, garlic and basil finely, the tomatoes in small cubes, and remove the seeds from the chili.\nHeat the oil in a pan and fry the onion until glassy, then add the sugar and salt. Add the garlic and chili and leave for another 2 minutes. Add the tomatoes and wine and leave for another 2 minutes. Add the tomatoes, lemon juice, salt and pepper and boil with the pasta and some water from the boiling pot.\nAdd sauce and stir for another 2 minutes."
         },
         {
             "key":46,
             "recipeName":"Spaghetti al pomodoro",
-            "ingredients":
-                    {"onion":"1",
+            "tags":["pasta", "main", "vegetarian", "vegan"],
+            "ingredients":{
+                    "onion":"1",
                     "garlic":"1 clove",
                     "cherry tomatoes":"100 g",
                     "oregano, thyme, salvia, bay":"after taste",
                     "basil":"After taste",
                     "olive oil":"2 tsp",
-                    "salt, pepper":"1 tsp"}
-                ,
+                    "salt, pepper":"1 tsp"
+            }, 
             "recipe":"Boil the pasta.\nIn the meantime, dice the garlic and onion finely, then cook both until the onion becomes translucid. Cut the cherry tomatoes in halves and add the aromatized oi. Add shredded basil. Add condiments after taste. Serve with raw olive oil."
         },
         {
             "key":47,
             "recipeName":"Beef Ragu",
-            "ingredients":
-                    {"olive oil":"1 Tbsp",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "olive oil":"1 Tbsp",
                     "onion":"1/4 ",
                     "carrot":"1",
                     "celery":"1/2",
                     "mushrooms":"1/2 cup",
                     "minced beef":"125 g",
                     "salt, pepper":"after taste",
-                    "tomato sauce":"1 cup"}
-                ,
+                    "tomato sauce":"1 cup"
+            }, 
             "recipe":"Preheat the olive oil in a pot. Cook the onion, carrot, celery, and mushrooms for 15 minutes. Add the mince and condiments and cook until the meat is almost ready. Add the tomato juice and let to simmer for 2 hours.\nServe with salad."
         },
         {
             "key":48,
             "recipeName":"Super Easy Chili",
-            "ingredients":
-                    {"olive oil":"1/2 tsp",
+            "tags":["beef", "main", "hot"],
+            "ingredients":{
+                    "olive oil":"1/2 tsp",
                     "garlic":"1 clove",
                     "minced beef":"125 g",
                     "chili powder":"1 Tbsp",
@@ -660,30 +706,32 @@
                     "chili flakes pepper":"1/4 tsp",
                     "oregano":"1/2 tsp",
                     "green bell pepper":"1/4 ",
-                    "tomatoes":"1/2 cup"}
-                ,
+                    "tomatoes":"1/2 cup"
+            }, 
             "recipe":"Cook the garlic for a minute in a pan with frying oil. Add the mix of beef and condiments.\nCook the onion and bell pepper in a deeper pot until they soften and place the contents of the pan inside.\nStir and leave for 30 minutes.\nStir every now and again."
         },
         {
             "key":49,
             "recipeName":"Fried Beef Meatballs with Squash",
-            "ingredients":
-                    {"coconut oil":"1/2 Tbsp",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "coconut oil":"1/2 Tbsp",
                     "minced beef":"250 g",
                     "garlic powder":"1 tsp",
                     "onion":"1/2 mica",
                     "oregano":"1 tsp",
                     "salt, pepper":"after taste",
                     "tomato":"1/2",
-                    "squash":"1/2"}
-                ,
+                    "squash":"1/2"
+            }, 
             "recipe":"Dice the vegetables.\nMix the condiments and 1/2 of the onion with the mince in a bowl. Make the meatballs and place in the pan at medium heat for about 10 minutes on all sides. When done, add the diced vegetables and cook until soft."
         },
         {
             "key":50,
             "recipeName":"Baked Beef Meatballs with Squash",
-            "ingredients":
-                    {"coconut oil":"1 tsp",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "coconut oil":"1 tsp",
                     "minced beef":"125 g",
                     "squash":"1/4 cup",
                     "eggs":"1",
@@ -691,41 +739,44 @@
                     "flour":"1 Tbsp",
                     "paprika":"1/2 tsp",
                     "oregano/dill":"1/4 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Preheat the oven at 180°C.\nMix the condiments and 1/2 of the onion with the mince in a bowl. Make the meatballs and place in the pan at medium heat for about 10 minutes on all sides.\nPlace a sheet of baking paper on a tray and add the meatballs and vegetables.\nBake until golden."
         },
         {
             "key":51,
             "recipeName":"Beef Meatballs",
-            "ingredients":
-                    {"minced beef":"125 g",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "minced beef":"125 g",
                     "garlic powder":"1 tsp",
                     "oregano":"1 tsp",
                     "parsley":"1 tsp",
                     "thyme":"1 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Preheat the oven at 180°C.\nMix the condiments and 1/2 of the onion with the mince in a bowl. Make the meatballs and bake for 45 minutes or until cooked."
         },
         {
             "key":52,
             "recipeName":"Beef steak and Gratinated Broccoli",
-            "ingredients":
-                    {"beef steak":"150 g",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "beef steak":"150 g",
                     "broccoli":"100 g",
                     "eggs de quail":"3",
                     "water":"25 ml",
                     "cow cheese":"30 g",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Open the broccoli in florets and boil for 3-4 minutes, then place in cold water.\nBeat the eggs with salt and pepper, add cheese and mix. Bake for 10 minutes with the broccoli.\nCut the beef in 1.5-2cm slices and grill for about 3 minutes on each side until it forms a crust. Add salt and pepper after cooking and serve with the baked mix."
         },
         {
             "key":53,
             "recipeName":"Potato Moussaka with Red Meat ",
-            "ingredients":
-                    {"potato":"200 g",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "potato":"200 g",
                     "onion":"1/4 ",
                     "garlic":"1 clove",
                     "minced beef":"100 g",
@@ -733,120 +784,129 @@
                     "oregano, thyme":"after taste",
                     "bay":"1 leaf",
                     "tomatoes":"100 g",
-                    "cheese":"20 g"}
-                ,
+                    "cheese":"20 g"
+            }, 
             "recipe":"Wash and boil the potatoes without peeling. Dice the onion and crush the garlic.\nCook the onion in a heated pan with oil until it turns glassy, then add garlic, salt, pepper, all the leaves, and the white sauce (?). Boil at high heat.\nIn another pan cook the meat with condiments, and in the meantime but the potatoes in slices about 0.5 cm thick. When the meat is cooked, mix with the other ingredients except potatoes.\nPlace baking paper on a deep oven tray. Add 1/3 of the potatoes on the bottom, then half the meat sauce, another 1/3 of the potatoes, the other half of the sauce, and the last 1/3 of potatoes as a lid on top. Pour a generous amount of white sauce on top and spread evenly. Bake for 20, then add the cheese on top, and leave for another 10 minutes or until the cheese has melted. Serve with pickles, cabbage salad, or beetroot salad."
         },
         {
             "key":54,
-            "recipeName":"Hot Beef Steak and salad",
-            "ingredients":
-                    {"beef steak":"100 g",
+            "recipeName":"Beef Steak and salad",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "beef steak":"100 g",
                     "radishes":"100 g",
                     "cucumber":"100 g",
                     "olive oil":"1/2 tsp",
                     "chili pepper":"1/2 ",
                     "ginger":"1/4 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Remove the fat from the steak and slice finely. Cut the chili and shred the ginger.\nHeat a pan with oil and cook the steak 2 minutes on each side. Add the chili and ginger and cook for another 2 minutes.\nPlace on a plate and keep warm.\nCook the cucumber and radishes in the remaining oil for a minute and serve with the meat. "
         },
         {
             "key":55,
             "recipeName":"Baked Beef and Kale",
-            "ingredients":
-                    {"beef steak":"100 g",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "beef steak":"100 g",
                     "kale":"150 g",
                     "lemon juice":"after taste",
                     "garlic":"1 clove",
                     "mustard":"after taste",
-                    "salt, pepper, mint":"after taste"}
-                ,
+                    "salt, pepper, mint":"after taste"
+            }, 
             "recipe":"Preheat the oven.\nCut the steak finely and place on a tray with baking paper. Add salt, pepper, coriander, mustard, and a cup of water. Bake for 30 minutes.\nGrate the kale and season with salt & pepper, then sprinkle some lemon juice or vinegar. You can also add parsley or finely chopped dill."
         },
         {
             "key":56,
             "recipeName":"Beef Saltimbocca",
-            "ingredients":
-                    {"beef steak":"125 g",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "beef steak":"125 g",
                     "prosciutto crudo":"15 g",
                     "green salad":"150 g",
                     "lemon juice":"1 Tbsp",
-                    "salvia":"1 leaf"}
-                ,
+                    "salvia":"1 leaf"
+            }, 
             "recipe":"Cut the steak in 1cm slices and wrap in a slice of prosciutto and 2 salvia leaves. Grill for 2-3 minutes each side.\nServe with salad greens and lemon juice."
         },
         {
             "key":57,
             "recipeName":"Pizza Spaghetti Pie with Pumpkin",
-            "ingredients":
-                    {"pumpkin":"1/4 ",
+            "tags":["beef", "main"],
+            "ingredients":{
+                    "pumpkin":"1/4 ",
                     "coconut oil":"1 tsp",
-                    "carne de vita":"125g",
+                    "minced beef":"125g",
                     "garlic powder":"1/2 tsp",
                     "oregano":"1/2 tsp",
                     "salt":"1/2 tsp",
                     "piper":"1/2 tsp",
                     "tomato juice":"1/2 cup",
                     "eggs":"1",
-                    "onion":"1/4"}
-                ,
+                    "onion":"1/4"
+            }, 
             "recipe":"Preheat the oven at 200°C. Place baking paper on a tray and split the squash into 2 on the long side. Take out the seeds and bake for 20-25 minutes or until it softens (avoid burning). Let cool, take out the middle, and grate into spaghetti.\nIn the meantime, cook onion in a pan at medium heat for a few minutes, then add the meat and condiments. Cook until the meat turns brown and add the tomato juice. Let the sauce simmer.\nMix the squash and meat, then add the beaten eggs.\nBake in a glass tray until it turns golden."
         },
         {
             "key":58,
             "recipeName":"Pea side",
-            "ingredients":
-                    {"peas":"1 cup",
+            "tags":["sides", "vegetarian", "vegan"],
+            "ingredients":{
+                    "peas":"1 cup",
                     "coconut oil":"1 tsp",
                     "garlic":"1-2 cloves",
                     "salt, pepper":"after taste",
                     "chicken cube":"1",
-                    "parsley":"after taste"}
-                ,
+                    "parsley":"after taste"
+            }, 
             "recipe":"Crush the garlic and cook in a pan with oil for a few minutes. Add the peas until it gets a little crispy. Season with salt and dill & parsley leaves, then add a little water and boil for 2-3 minutes."
         },
         {
             "key":59,
             "recipeName":"Spinach saut\u00e9",
-            "ingredients":
-                    {"spinach":"2 cup",
+            "tags":["sides", "vegetarian", "vegan"],
+            "ingredients":{
+                    "spinach":"2 cup",
                     "coconut oil":"1 tsp",
                     "garlic":"2 cloves",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Cook the garlic in a pan with oil. Raise the heat and add the washed spinach. Cook until the spinach is soft, then season with salt and pepper."
         },
         {
             "key":60,
             "recipeName":"Italian Eggplant Towers",
-            "ingredients":
-                    {"eggplant":"200 g",
+            "tags":["main", "vegetarian", "vegan"],
+            "ingredients":{
+                    "eggplant":"200 g",
                     "mozzarella":"25 g",
                     "tomatoes":"150 g",
                     "parmesan":"10 g",
                     "salt, pepper, oregano":"after taste",
-                    "lemon juice":"after taste"}
-                ,
+                    "lemon juice":"after taste"
+            }, 
             "recipe":"Preheat the oven at 200°C.\nCut the eggplant in 0.5 cm slices, then salt and add olive oil. Slice the tomatoes and mozzarella. Form the towers by putting eggplant at the base, then tomato and mozzarella. Bake for 15 minutes and serve with parmesan, condiments, and lemon juice."
         },
         {
             "key":61,
             "recipeName":"Cantaloupe Granita",
-            "ingredients":
-                    {"cantaloupe":"125 g",
+            "tags":["snacks", "cold", "vegetarian", "vegan"],
+            "ingredients":{
+                    "cantaloupe":"125 g",
                     "honey":"1/2 tsp",
                     "lemon juice":"after taste",
                     "water":"25 ml",
-                    "mint":"1 leaf"}
-                ,
+                    "mint":"1 leaf"
+            }, 
             "recipe":"Clean the cantaloupe, dice it and blend with honey, lemon juice and water. Freeze for 30 minutes in a plastic cup. Take out, crush, and leave for another 20 minutes.\nServe with ice and mint leaves."
         },
         {
             "key":62,
             "recipeName":"Kale and Lentil Curry",
-            "ingredients":
-                    {"basmati rice":"75 g",
+            "tags":["main", "vegetarian", "vegan", "curry"],
+            "ingredients":{
+                    "basmati rice":"75 g",
                     "onion":"1/2 ",
                     "garlic":"1 clove",
                     "coconut oil":"1 tsp",
@@ -856,15 +916,16 @@
                     "leek":"1/2",
                     "red lentils":"15 g",
                     "sesame seeds":"1+1/2 Tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Boil the rice in salted water.\nDice the kale and leek.\nFinely dice the onion and garlic, then cook in coconut oil. Add curry powder and cook for 1-2 minutes. Add coconut milk. Add then the kale and lentils, and boil with a lid for 15 minutes.\nFry the sesame seeds without oil in a different pan and add in the mix. Boil for another 2 minutes.\nAdd salt and pepper."
         },
         {
             "key":63,
             "recipeName":"Couscous with Greens and Halloumi",
-            "ingredients":
-                    {"halloumi":"75 g",
+            "tags":["main", "vegetarian"],
+            "ingredients":{
+                    "halloumi":"75 g",
                     "red bell pepper":"1/2 ",
                     "cucumber lung":"1/4 ",
                     "green onion":"1/2 bundle",
@@ -873,15 +934,16 @@
                     "olive oil":"1 Tbsp",
                     "lemon juice":"1/2 Tbsp",
                     "salt, pepper":"after taste",
-                    "couscous":"50 g"}
-                ,
+                    "couscous":"50 g"
+            }, 
             "recipe":"Put the couscous in a bowl and pour 100ml of boiling water on top. Leave for 10 minutes. At the end, add oil and lemon juice.\nGrill the halloumi sticks.\nDice the bell pepper and cucumber, slice the onion in rings. Finely chop the parsley and mint leaves. Add to the couscous and serve with halloumi."
         },
         {
             "key":64,
             "recipeName":"Eggplant and Veggies",
-            "ingredients":
-                    {"eggplant":"250 g",
+            "tags":["main", "vegetarian", "vegan"],
+            "ingredients":{
+                    "eggplant":"250 g",
                     "red bell pepper":"1/4",
                     "carrot":"50 g",
                     "onion":"1/4 ",
@@ -889,51 +951,55 @@
                     "sweet cheese":"25 g",
                     "tomato juice":"100 g",
                     "olive oil":"1 tsp",
-                    "salt, pepper, lemon juice, basil, thyme, parsley, dill, bay, pepper":"after taste"}
-                ,
+                    "salt, pepper, lemon juice, basil, thyme, parsley, dill, bay, pepper":"after taste"
+            }, 
             "recipe":"Cut the eggplant on the long edge and take out the middle just enough to add the filling.\nDice the garlic, onion, bell pepper, and carrots, then cook with the middle of the eggplant and beans/chickpeas. Add the tomato juice, bay leaf & pepper, and cook for 15-20 minutes.\nPreheat the oven.\nFill the eggplant with this mix and bake for 20-30 minutes.\nServe with yogurt and finely cut parsley."
         },
         {
             "key":65,
             "recipeName":"Mediterranean Stuffed Squash",
-            "ingredients":
-                    {"squash":"250 g",
+            "tags":["main", "vegetarian", "vegan"],
+            "ingredients":{
+                    "squash":"250 g",
                     "white mushrooms":"50 g",
                     "tomatoes":"50 g",
                     "chicken ham":"50 g",
                     "feta":"25 g",
-                    "salt, pepper, basil, thyme, parsley, dill":"after taste"}
-                ,
+                    "salt, pepper, basil, thyme, parsley, dill":"after taste"
+            }, 
             "recipe":"Cut the squash on the long edge and take out the middle just enough to add the filling.\nDice the tomatoes and parsley.\nDice and cook the mushrooms for 3 minutes. Add the parsley & tomatoes and leave for another 2 minutes. Fill the squash with the mix combined with diced chicken ham and bake at 200°C. 5 minutes before taking out, sprinkle feta on top. Serve with Ayran and fresh mint."
         },
         {
             "key":66,
             "recipeName":"Zucchini Spaghetti",
-            "ingredients":
-                    {"zucchini":"1",
+            "tags":["sides", "vegetarian", "vegan"],
+            "ingredients":{
+                    "zucchini":"1",
                     "coconut oil":"1 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Shred the zucchini and cook for a few minutes with oil, salt, and pepper."
         },
         {
             "key":67,
             "recipeName":"Eggplant Salad, Tofu & Bean Sandwich",
-            "ingredients":
-                    {"whole wheat bread":"1 roll",
+            "tags":["main", "sandwiches", "vegetarian", "vegan"],
+            "ingredients":{
+                    "whole wheat bread":"1 roll",
                     "tofu":"50 g ",
                     "beans":"50 g",
                     "eggplant":"1/2 ",
                     "red onion":"1/4 ",
                     "walnuts":"2 Tsp",
                     "olive oil":"1 tsp",
-                    "salt, pepper, lemon juice":"after taste"}
-                ,
-            "recipe":"Bake the eggplant and mix it with onion, olive oil, salt, pepper, and lemon juice. This is the eggplant salad.\nAdd the walnuts and beans, then spread on/inside the roll and add tofu.\nServe with a side of tomato salad."
+                    "salt, pepper, lemon juice":"after taste"
+            }, 
+            "recipe":"Bake the eggplant for 45 minutes flipping over halfway through.\nStrain the water out of the eggplant for about two hours or even overnight (the more you leave it the less bitter it will be) ,then mix it with onion, olive oil, salt, pepper, and lemon juice (add 1tsp of mayo if you're feeling cheeky). This is the eggplant salad.\nAdd the walnuts and beans, then spread on/inside the roll and add tofu.\nServe with a side of tomato salad."
         },
         {
             "key":68,
             "recipeName":"Veggie Wrap",
+            "tags":["main", "wraps", "vegetarian", "vegan"],
             "ingredients":
                    { "mushrooms":"100 g",
                     "spinach":"100 g",
@@ -941,26 +1007,28 @@
                     "red bell pepper":"1",
                     "tomatoes":"2",
                     "olive oil":"3 Tsp",
-                    "salt, pepper, lemon juice, basil":"after taste"}
-                ,
+                    "salt, pepper, lemon juice, basil":"after taste"
+            }, 
             "recipe":"Slice the tomatoes, bell pepper, and mushrooms. Dice the spinach.\nSeason the mix of these ingredients with salt and pepper, then cook in olive oil for 10 minutes. Add lemon juice and basil, leave it cool for 2-3 minutes. While the veggies cool, heat the wrap, then place the mix inside."
         },
         {
             "key":69,
             "recipeName":"Leaves & Greens",
-            "ingredients":
-                    {"green salad":"1/4 ",
+            "tags":["sides", "vegetarian", "vegan"],
+            "ingredients":{
+                    "green salad":"1/4 ",
                     "radicchio":"after taste",
                     "cauliflower":"1/4",
-                    "red onion":"1/4 "}
-                ,
+                    "red onion":"1/4 "
+            }, 
             "recipe":"Add the shredded lettuce and radicchio leaves in a bowl. Cut the cauliflower in quarters and then shred and cut the onion in rings."
         },
         {
             "key":70,
             "recipeName":"Ratatouille",
-            "ingredients":
-                    {"onion":"1/2 ",
+            "tags":["main", "vegetarian", "vegan"],
+            "ingredients":{
+                    "onion":"1/2 ",
                     "squash":"50 g",
                     "kale":"1/2 ",
                     "eggplant":"1/2 ",
@@ -969,29 +1037,31 @@
                     "garlic":"1 clove",
                     "salt, pepper":"after taste",
                     "feta":"50 g",
-                    "parsley, dill":"1/4 bundle"}
-                ,
+                    "parsley, dill":"1/4 bundle"
+            }, 
             "recipe":"Finely dice the onion and garlic, then cook in a pan with 1 Tbsp of water under the lid.\nDice all the other veggies into cubes and cook the same way for 15 minutes. Add more water if necessary.\nSeason with salt, pepper, and condiments. Serve with chicken/ turkey breast."
         },
         {
             "key":71,
             "recipeName":"Taco seasoning",
-            "ingredients":
-                    {"chili/chili powder":"1 tsp",
+            "tags":["spice mixes"],
+            "ingredients":{
+                    "chili/chili powder":"1 tsp",
                     "garlic powder":"1/4 tsp",
                     "chili flakes pepper":"1/4 tsp",
                     "oregano":"1/4 tsp",
                     "chili powder dulce":"1/2 tsp",
                     "cumin":"1+1/2 tsp",
-                    "salt":"1 tsp"}
-                ,
+                    "salt":"1 tsp"
+            }, 
             "recipe":"Mix the condiments."
         },
         {
             "key":72,
             "recipeName":"Veggie Lasagna",
-            "ingredients":
-                    {"lasagna sheets":"50 g",
+            "tags":["main", "vegetarian"],
+            "ingredients":{
+                    "lasagna sheets":"50 g",
                     "carrot":"50 g",
                     "mushrooms":"100 g",
                     "spinach":"100 g",
@@ -999,15 +1069,16 @@
                     "whole wheat flour":"1/2 Tbsp",
                     "olive oil":"1 tsp",
                     "milk":"100 ml",
-                    "salt, pepper, nutmeg, basil, garlic, bay":"after taste"}
-                ,
+                    "salt, pepper, nutmeg, basil, garlic, bay":"after taste"
+            }, 
             "recipe":"Finely dice the mushrooms, spinach, and garlic. Dice the carrots and tomatoes into cubes.\nCook the garlic in a pan with olive oil and a bay leaf for about a minute. Add all the other veggies and cook for 10 minutes. At the end, add the basil leaves.\nMix nutmeg with flour, salt, pepper, and milk nutmeg, then cook at low heat until it reaches a thick consistency.\nPreheat the oven at 200°C.\nIn a deep tray, pour some olive oil and start mounting with the lasagna sheets, then veggies and bechamel sauce. Bake until the top layer becomes golden."
         },
         {
             "key":73,
             "recipeName":"Baked Vegetables with Chickpeas",
-            "ingredients":
-                    {"onion":"1/4 ",
+            "tags":["main", "vegetarian", "vegan"],
+            "ingredients":{
+                    "onion":"1/4 ",
                     "zucchini":"1/2",
                     "squash":"100 g",
                     "garlic":"1 clove",
@@ -1015,80 +1086,86 @@
                     "chickpeas":"1/4",
                     "olive oil":"2 Tbsp",
                     "salt, pepper, curry":"after taste",
-                    "mint leaves & parsley":"after taste"}
-                ,
+                    "mint leaves & parsley":"after taste"
+            }, 
             "recipe":"Preheat the oven at 180°C.\nDice the vegetables in medium cubes. Place a sheet of baking paper on a tray and add pour the vegetables over. Sprinkle some olive oil, lemon juice, and condiments. Bake for 25-30 minutes.\nServe simple or with yogurt & mint leaf sauce (yogurt, mint leaves, lemon juice, salt, pepper)"
         },
         {
             "key":74,
             "recipeName":"Super Easy Side Salad",
-            "ingredients":
-                    {"mix leaves":"1 cup",
+            "tags":["sides", "salad", "vegetarian", "vegan"],
+            "ingredients":{
+                    "mix leaves":"1 cup",
                     "carrot":"1",
                     "cucumber":"1/2 ",
-                    "cherry tomatoes":"1/2 cup"}
-                ,
+                    "cherry tomatoes":"1/2 cup"
+            }, 
             "recipe":"Cut and mix with salad dressing."
         },
         {
             "key":75,
             "recipeName":"Tomato and Cucumber Salad",
-            "ingredients":
-                    {"tomatoes":"1",
+            "tags":["sides", "salad", "vegetarian", "vegan"],
+            "ingredients":{
+                    "tomatoes":"1",
                     "cucumber":"1/2 ",
                     "basil":"1/2 Tbsp",
-                    "parsley":"1/2 Tbsp"}
-                ,
+                    "parsley":"1/2 Tbsp"
+            }, 
             "recipe":"Cut and mix with salad dressing."
         },
         {
             "key":76,
             "recipeName":"Cucumber Parsley Salad",
-            "ingredients":
-                    {"lemon juice":"1+1/2 Tbsp",
+            "tags":["sides", "salad", "vegetarian", "vegan"],
+            "ingredients":{
+                    "lemon juice":"1+1/2 Tbsp",
                     "garlic":"1 clove",
                     "salt, pepper, chili flakes pepper":"after taste",
                     "olive oil":"1 Tbsp",
                     "cucumber":"1/2",
-                    "parsley":"2 Tbsp"}
-                ,
+                    "parsley":"2 Tbsp"
+            }, 
             "recipe":"Cut and serve as side."
         },
         {
             "key":77,
             "recipeName":"Mango Feta Salad with Yogurt Dressing",
-            "ingredients":
-                    {"mango":"100 g",
+            "tags":["salad", "vegetarian"],
+            "ingredients":{
+                    "mango":"100 g",
                     "feta":"50 g",
                     "lettuce":"150 g",
                     "yogurt":"150 g",
                     "pine seeds":"1 Tbsp",
                     "lemon peel":"1",
                     "lemon juice":"1+1/2 Tbsp",
-                    "salt, pepper, basil":"after taste"}
-                ,
+                    "salt, pepper, basil":"after taste"
+            }, 
             "recipe":"Cook the pine seeds in a pan without oil for a few minutes.\nMix the yogurt and lemon peel & juice, salt, pepper and pine seeds.\nCut the feta and mango into cubes, then mix with the salad greens and pour the dressing."
         },
         {
             "key":78,
             "recipeName":"Beetroot Avo Salad",
-            "ingredients":
-                    {"beetroot":"1",
+            "tags":["salad", "vegetarian", "vegan"],
+            "ingredients":{
+                    "beetroot":"1",
                     "orange":"1/2 ",
                     "eggs":"1",
                     "avocado":"1/2 ",
                     "vinegar":"1/2 tsp",
                     "oil de sesame":"1 tsp",
                     "lettuce":"1/2 ",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Peel and slice the beetroot. Separate and wash the lettuce. Slice the avocado and half the quantity of orange. The other half is squeezed with vinegar, oil, salt and pepper as a dressing.\nOn top of the lettuce, add the beetroot slices, orange, avocado, and hard-boiled eggs."
         },
         {
             "key":79,
             "recipeName":"Beans, Tuna & Onion Salad",
-            "ingredients":
-                    {"green beans":"200 g",
+            "tags":["salad", "fish", "tuna"],
+            "ingredients":{
+                    "green beans":"200 g",
                     "carrot":"200 g",
                     "red onion":"1/4",
                     "chickpeas":"1/2 can",
@@ -1097,81 +1174,87 @@
                     "olive oil":"2 Tsp",
                     "lettuce":"1/2",
                     "garlic":"1 clove",
-                    "salt, pepper, lemon juice, basil, thyme parsley, dill, bay, pepper":"after taste"}
-                ,
+                    "salt, pepper, lemon juice, basil, thyme parsley, dill, bay, pepper":"after taste"
+            }, 
             "recipe":"Boil the green beans for 3 minutes straight into hot water, then cool with cold water.\nMake a dressing out of olive oil, lemon juice, garlic and herbs.\nDice everything else and mix with the rest."
         },
         {
             "key":80,
             "recipeName":"Avo Tuna Salad",
-            "ingredients":
-                    {"ton in brine":"100 g",
+            "tags":["salad", "fish", "tuna"],
+            "ingredients":{
+                    "ton in brine":"100 g",
                     "cheese cottage":"75 g",
                     "lettuce":"150 g",
                     "avocado":"30 g",
                     "tomatoes":"200 g",
-                    "salt, pepper, lemon juice, basil":"after taste"}
-                ,
+                    "salt, pepper, lemon juice, basil":"after taste"
+            }, 
             "recipe":"Clean the avocado and sprinkle some lemon juice on top. Mash with a fork, then add the cottage chees, salt, pepper, and other condiments. Stir well. Add the tuna without brine and mix.\nPlace the lettuce leaves on a plate, add the tuna paste, and top with tomatoes."
         },
         {
             "key":81,
             "recipeName":"Raw Salad",
-            "ingredients":
-                    {"lettuce":"1 cup",
+            "tags":["salad", "vegetarian", "vegan"],
+            "ingredients":{
+                    "lettuce":"1 cup",
                     "carrot mic":"1",
                     "cucumber":"1/2 ",
-                    "cherry tomatoes":"1/2 cup"}
-                ,
+                    "cherry tomatoes":"1/2 cup"
+            }, 
             "recipe":"Cut the cucumber and carrot and mix with the rest."
         },
         {
             "key":82,
             "recipeName":"Surprise Salad",
-            "ingredients":
-                    {"turkey breast":"50 g",
+            "tags":["salad", "turkey", "breakfast"],
+            "ingredients":{
+                    "turkey breast":"50 g",
                     "mozzarella light":"50 g",
                     "tomatoes":"200 g",
                     "zucchini":"200 g",
                     "peaches":"100 g",
                     "couscous":"30 g",
-                    "lemon juice, mint":"after taste"}
-                ,
+                    "lemon juice, mint":"after taste"
+            }, 
             "recipe":"Cook the couscous.\nGrill and slice the turkey.\nSlice the squash and dice the tomatoes and peaches. Mix the couscous and serve with the turkey breast, salt, pepper, mint, and lemon juice."
         },
         {
             "key":83,
             "recipeName":"Turkey Breast Salad",
-            "ingredients":
-                    {"turkey breast":"100 g",
+            "tags":["salad", "main", "turkey"],
+            "ingredients":{
+                    "turkey breast":"100 g",
                     "cauliflower/broccoli":"100 g",
                     "peas":"100 g",
                     "olives":"25 g",
                     "yogurt":"25 g",
                     "carrot":"100 g",
-                    "mint, salt, pepper":"after taste"}
-                ,
+                    "mint, salt, pepper":"after taste"
+            }, 
             "recipe":"Slice and boil the turkey breast for 10 minutes.\nDice the cauliflower and carrot, mix with peas.\nDice the meat when it’s ready and serve with the vegetables. Out of everything else make a dressing for the meat."
         },
         {
             "key":84,
             "recipeName":"Ham & Cheese Salad",
-            "ingredients":
-                    {"turkey ham":"100 g",
+            "tags":["pork", "salad", "main"],
+            "ingredients":{
+                    "turkey ham":"100 g",
                     "mozzarella light":"50 g",
                     "green bell pepper":"100 g",
                     "cherry tomatoes":"100 g",
                     "cucumber":"100 g",
                     "croutons":"1 slice",
-                    "vinegar balsamic, salt, pepper, chili powder":"after taste"}
-                ,
+                    "vinegar balsamic, salt, pepper, chili powder":"after taste"
+            }, 
             "recipe":"Cut the washed vegetables into rings, dice the mozzarella and mix with everything else.\nServe with a slice of toast."
         },
         {
             "key":85,
             "recipeName":"Caesar Salad",
-            "ingredients":
-                    {"grilled chicken":"75 g",
+            "tags":["chicken", "salad", "main"],
+            "ingredients":{
+                    "grilled chicken":"75 g",
                     "Worcestershire sauce":"1 tsp",
                     "mustard":"1/2 tsp",
                     "file de anchovies":"1/2",
@@ -1181,85 +1264,91 @@
                     "parmesan":"1 tsp",
                     "bread":"1 slice",
                     "butter":"1 cub mic",
-                    "herbs":"after taste"}
-                ,
+                    "herbs":"after taste"
+            }, 
             "recipe":"Slice the chicken breast, season with salt and add some rosemary leaves. \nCove with baking paper and beat to combine tastes. Cook in a pan for 4 minutes each side, then grill. \nToast a slice of bread and dice it.\nMake the dressing and serve with leaves and vegetables (recipe 69).\nAdd the chicken on top and serve with croutons."
         },
         {
             "key":86,
             "recipeName":"Multivita Salad",
-            "ingredients":
-                    {"turkey breast":"100 g",
+            "tags":["turkey", "salad", "main"],
+            "ingredients":{
+                    "turkey breast":"100 g",
                     "lettuce":"100 g",
                     "rucola ":"50 g",
                     "spinach":"50 g",
                     "yogurt":"1/2 box",
                     "cashews":"10",
                     "olive oil":"1/2 tsp",
-                    "lemon juice, salt, pepper, parsley":"after taste"}
-                ,
+                    "lemon juice, salt, pepper, parsley":"after taste"
+            }, 
             "recipe":"Grill the turkey, then slice finely.\nMake the dressing out of yogurt, lemon juice, olive oil, salt, pepper, and parsley.\nMix everything in a bowl."
         },
         {
             "key":87,
             "recipeName":"Salad Dressing",
-            "ingredients":
-                    {"Dijon mustard":"1 tsp",
+            "tags":["sauces", "salad"],
+            "ingredients":{
+                    "Dijon mustard":"1 tsp",
                     "garlic powder":"1/2 tsp",
                     "salt":"1/2 tsp",
                     "vinegar de mere":"1/4 cup",
-                    "olive oil":"3/4 cup"}
-                ,
+                    "olive oil":"3/4 cup"
+            }, 
             "recipe":"Mix well and refrigerate in a well-sealed glass container."
         },
         {
             "key":88,
             "recipeName":"Cauliflower Soup",
-            "ingredients":
-                    {"cauliflower":"200 g",
+            "tags":["soup"],
+            "ingredients":{
+                    "cauliflower":"200 g",
                     "onion":"1/2 ",
                     "milk":"50 ml",
                     "fennel":"1/4",
                     "prosciutto crudo":"50 g",
                     "thyme":"1/2 tsp",
                     "parsley":"1/2 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Open the cauliflower in florets, but the fennel in sticks. Boil with the onion for 15 minutes. Add the hot milk, herbs, salt, and pepper. Mash until you get a creamy texture. Serve with cooked prosciutto slices (meat crisps)."
         },
         {
             "key":89,
             "recipeName":"Sweet Potato and Chickpea Soup",
-            "ingredients":
-                    {"onion":"1/8 ",
+            "tags":["soup", "vegetarian", "vegan"],
+            "ingredients":{
+                    "onion":"1/8 ",
                     "garlic":"1 clove",
                     "sweet potato":"100g",
                     "chickpea":"20g",
                     "coconut oil":"1 tsp",
                     "chicken cube":"150 ml",
-                    "tarragon, salt, peppe, chili":"after taste"}
-                ,
+                    "tarragon, salt, peppe, chili":"after taste"
+            }, 
             "recipe":"Use the cube to make a quick soup.\nClean the onion and garlic. Peel and dice the sweet potatoes.\nCook until the onion becomes glassy, then add the sweet potatoes and chicken soup. Boil for about 30 minutes.\nAfter cooking, add the chickpeas and blend.\nSeason with salt, pepper, and chili."
         },
         {
             "key":90,
             "recipeName":"Pistachio & Mushroom Soup",
-            "ingredients":
-                    {"mushrooms":"200 g",
+            "tags":["soup", "vegetarian", "vegan"],
+            "ingredients":{
+                    "mushrooms":"200 g",
                     "fistic crud":"25 g",
                     "onion":"50 g",
                     "parsley":"1/2 tsp",
                     "nutmeg":"1/2 tsp",
                     "salt, pepper":"after taste",
-                    "garlic":"1 clove"}
-                ,
+                    "garlic":"1 clove"
+            }, 
             "recipe":"Finely dice the onion and garlic.\nSlice the mushrooms and stew them all in a pan. Add water to cover and cook for 10 minutes.\nAfter cooking, blend until they become creamy, then season with salt, pepper, and nutmeg.\nServe with parsley and crushed pistachios."
         },
         {
             "key":91,
             "recipeName":"Feta Carrot Soup",
-            "ingredients":
-                    {"onion":"1/4 ",
+            "tags":["soup", "vegetarian"],
+            "ingredients":{
+                    "onion":"1/4 ",
                     "ginger":"1/3 tsp",
                     "carrot":"150 g",
                     "celery":"120 g",
@@ -1268,15 +1357,16 @@
                     "sunflower seeds":"1 tsp",
                     "thyme":"1",
                     "feta":"50 g",
-                    "salt, pepper, lemon juice, basil, bay":"after taste"}
-                ,
+                    "salt, pepper, lemon juice, basil, bay":"after taste"
+            }, 
             "recipe":"Clean the onion and peel the ginger. Peel and dice the carrots and celery.\nCook the onion in a pan with heated oil until it becomes glassy. Add the shredded ginger, bay leaf, carrots and celery and cook for 2-3 minutes.\nAdd water, salt and pepper to cover, then boil for 15 minutes.\nCook the sunflower seeds in a dry pan.\nDice the cheese and take the leaves off the thyme twig.\nWhen the soup is ready, take out the bay leaf and blend everything. Add water from the boiling process to get the desired thickness.\nSprinkle the seeds, feta, and thyme leaves as topping."
         },
         {
             "key":92,
             "recipeName":"Leek and Camembert Soup",
-            "ingredients":
-                    {"leek":"120 g",
+            "tags":["soup", "vegetarian"],
+            "ingredients":{
+                    "leek":"120 g",
                     "butter":"1 Tbsp",
                     "sugar":"1 1/2 Tsp",
                     "white wine":"50 ml",
@@ -1284,41 +1374,44 @@
                     "yogurt 10% (sour cream 12%)":"1 Tbsp",
                     "olive oil":"1/2 tsp",
                     "salt, pepper":"after taste",
-                    "camembert cheese":"25 g"}
-                ,
+                    "camembert cheese":"25 g"
+            }, 
             "recipe":"Cut the cleaned leek into thin rings and cook in butter for 5 minutes. Add sugar and let caramelize, then add the wine. Boil for 4-5 minutes and add the vegetable soup, salt, and yogurt. Cook for another 15 minutes with the lid on, stirring occasionally.\nServe with camembert or brie."
         },
         {
             "key":93,
             "recipeName":"Banana Walnut Muffins",
-            "ingredients":
-                    {"banana":"2+1/2",
+            "tags":["sweets", "muffins", "snacks"],
+            "ingredients":{
+                    "banana":"2+1/2",
                     "coconut oil":"1 Tbsp",
                     "eggs":"1",
                     "almond flour":"1 1/4 cup",
                     "salt":"1 pinch",
                     "baking powder":"1/2 tsp",
-                    "walnuts":"1/2 cup"}
-                ,
+                    "walnuts":"1/2 cup"
+            }, 
             "recipe":"Preheat the oven at 200°C.\nPlace muffin papers in the muffin tray holes for 8 pieces.\nIn a bowl, mash the banana with a fork. Add the oil and eggs, then blend until mixed. Add flour little by little, then the salt and baking powder. Add lemon juice and crushed walnuts. If you don’t trust the sweetness to be enough, add cinnamon.\nBake for about 20 minutes or until done."
         },
         {
             "key":94,
             "recipeName":"Guacamole",
-            "ingredients":
-                    {"avocado":"1",
+            "tags":["spreads", "snacks"],
+            "ingredients":{
+                    "avocado":"1",
                     "tomato":"1/4 ",
                     "onion":"2 Tbsp",
                     "parsley":"1 Tbsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Dice the tomato and onion.\nCut the avocado in half and take out the middle, then squish with a fork.\nMix everything together."
         },
         {
             "key":95,
             "recipeName":"Heat and Run Muffins",
-            "ingredients":
-                    {"turkey mince":"50 g",
+            "tags":["turkey", "snacks", "muffins"],
+            "ingredients":{
+                    "turkey mince":"50 g",
                     "garlic powder":"1/4 tsp",
                     "oregano":"1/4 tsp",
                     "thyme":"1/4 tsp",
@@ -1327,13 +1420,14 @@
                     "red bell pepper":"1/6 cup",
                     "green bell pepper":"1/6 cup",
                     "onion":"1/6 cup",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Preheat the oven at 200°C.\nPrepare the muffin tray with papers. Don’t just use oil, egg sticks easily to trays.\nCook the turkey meat and add the condiments.\nMix in a bowl with tomatoes, peppers, onion and eggs.\nPun in muffin papers and bake for 20-30 minutes or until baked."
         },
         {
             "key":96,
             "recipeName":"Homemade Ice Cream",
+            "tags":["sweets", "snacks"],
             "ingredients":
                 {   "fruit":"1 cup",
                     "honey":"1 Tbsp",
@@ -1347,69 +1441,497 @@
         {
             "key":97,
             "recipeName":"Fruit & Spread",
-            "ingredients":
-                    {"fruit":"1",
-                    "spread":"1 Tbsp"}
-                ,
+            "tags":["snacks", "sweets"],
+            "ingredients":{
+                    "fruit":"1",
+                    "spread":"1 Tbsp"
+            }, 
             "recipe":"Serve together."
         },
         {
             "key":98,
             "recipeName":"Ham & Carrot",
-            "ingredients":
-                    {"turkey ham":"50 g",
-                    "carrot":"1"}
-                ,
+            "tags":["snacks", "pork"],
+            "ingredients":{
+                    "turkey ham":"50 g",
+                    "carrot":"1"
+            }, 
             "recipe":"Cut the carrot into sticks and serve with ham as a snack."
         },
         {
             "key":99,
             "recipeName":"Cheese dip & sticks",
-            "ingredients":
-                    {"feta":"20 g",
+            "tags":["snacks"],
+            "ingredients":{
+                    "feta":"20 g",
                     "cheese cottage":"100 g",
                     "bell pepper ":"1/2 ",
                     "cucumber":"1/3",
-                    "dill, salt, pepper":"after taste"}
-                ,
+                    "dill, salt, pepper":"after taste"
+            }, 
             "recipe":"Mix the cheeses, salt, pepper, and dill until you get a paste.\nServe with veggie sticks."
         },
         {
             "key":100,
             "recipeName":"Red smoothie",
-            "ingredients":
-                    {"raspberries":"100 g",
+            "tags":["smoothie", "breakfast", "snacks"],
+            "ingredients":{
+                    "raspberries":"100 g",
                     "watermelon":"150 g",
-                    "mint":"after taste"}
-                ,
+                    "mint":"after taste"},
             "recipe":"Blend and serve with ice."
         },
         {
             "key":101,
             "recipeName":"Peaches & almonds",
-            "ingredients":
-                    {"apricots":"150 g",
+            "tags":["snacks", "sweet"],
+            "ingredients":{
+                    "apricots":"150 g",
                     "almonds":"6-7",
                     "honey":"2 Tsp",
                     "almond extract":"1 drop",
-                    "lemon juice":"after taste"}
-                ,
+                    "lemon juice":"after taste"},
             "recipe":"Finely cut the almonds with a knife.\nPour 100 ml of water in a pot and boil. Add the almonds and boil for 2 minutes. Stop the heat and add the lemon juice, almond extract, and honey. Mix well and let the syrup cool.\nCut the peaches in half and take out the seeds. Take out some of the pulp to make peach baskets out of the halves.\nLet the halves cool and mix the removed pulp with the syrup until it becomes a paste. Freeze for a little bit, then use this “ice cream” to fill out the baskets in the fridge."
         },
         {
             "key":102,
             "recipeName":"Ham, Cheese & Mustard",
-            "ingredients":
-                    {"turkey breast":"75 g",
+            "tags":["pork", "snacks"],
+            "ingredients":{
+                    "turkey breast":"75 g",
                     "mozzarella":"75 g",
                     "yogurt":"1/2 box",
                     "cherry tomatoes":"1/2 box",
                     "green bell pepper":"1",
                     "cucumber":"1/3",
                     "mustard":"1 tsp",
-                    "salt, pepper":"after taste"}
-                ,
+                    "salt, pepper":"after taste"
+            }, 
             "recipe":"Grill the turkey breast.\nDice the grilled turkey breast and mozzarella.\nWash and dice the vegetables.\nAdd salt and pepper.\nMake a sauce out of the yogurt, mustard, salt, and pepper.\nPour on the diced ingredients and season with finely diced basil."
+        },
+        {
+            "key":103,
+            "recipeName":"Hummus wraps",
+            "tags":["wraps", "breakfast", "vegetarian", "vegan"],
+            "ingredients":{
+                "tortilla": 1,
+                "hummus": "3 Tbsp",
+                "corn": "2 Tbsp",
+                "black beans": "2 Tbsp",
+                "diced tomato": "1 Tbsp",
+                "avocado": "2 Tbsp",
+                "lettuce": "1 cup"
+            }, 
+            "recipe":"Spread hummus over wrap. Layer the rest of the ingredients on top of hummus. Heat up if you want. Wrap it up and enjoy!"
+        },
+        {
+            "key":104,
+            "recipeName":"Baked Eggs with Spinach",
+            "tags":["breakfast","eggs"],
+            "ingredients":{
+                "eggs": "2",
+                "spinach": "1 cup", 
+                "salt and pepper": "after taste",
+                "cheese": "3 Tbsp",
+                "cream": "2 Tbsp"
+            }, 
+            "recipe":"Preheat the oven to 180°C.\nIn a non stick pan over high heat, quickly fry the spinach leaves until they are wilted (30 sec). Place the spinach in a ramekin, sprinkle with 1 Tbsp cheese, salt and pepper.\nCrack in the eggs and make sure they cover all the spinach (so the cream sits on the eggs and don’t leak into the spinach). Pour over the cream, season with salt and pepper, then sprinkle with the remaining 2 Tbsp of cheese"
+        },
+        {
+            "key":105,
+            "recipeName":"Rolled oats with raisins",
+            "tags":["breakfast"],
+            "ingredients":{
+                "oats": "4 Tbsp",
+                "raisins": "2 Tbsp",
+                "salt": "after taste",
+                "milk":"1 cup",
+                "butter":"1/2 Tbsp",
+                "honey":"1 Tbsp"    
+            }, 
+            "recipe":"Combine oats, milk, water and salt in a medium saucepan. Bring to a boil, then reduce heat to low. Simmer uncovered for 3 to 5 minutes until thickened, stirring occasionally. Remove from heat and let cool slightly. Add raisins."
+        },
+        {
+            "key":106,
+            "recipeName":"Delicious yogurt breakfast",
+            "tags":[],
+            "ingredients":{
+                "apple": "1/2",
+                "yogurt": "1 cup",
+                "honey": "1 Tbsp",
+                "blueberries": "1 handful",
+                "almonds": "1 handful"
+            }, 
+            "recipe":"Toss apple slices with maple syrup in a bowl. Place yogurt in a bowl. Top yogurt with apple mixture, blueberries, and almonds; sprinkle with cinnamon and nutmeg."
+        },
+        {
+            "key":107,
+            "recipeName":"Strawberry Smoothie",
+            "tags":["breakfast", "smoothie"],
+            "ingredients":{
+                "milk": "1 cup",
+                "strawberries": "1 + 1/2 cups",
+                "almonds": "3 Tbsp",
+                "honey": "1 Tbsp",
+                "cottage cheese": "1/2 cups"
+            }, 
+            "recipe":"Blend milk, cottage cheese, honey and strawberries together in a blender until smooth. Add almonds."
+        },
+        {
+            "key":108,
+            "recipeName":"BBQ Turkey Meatballs",
+            "tags":["main", "turkey"],
+            "ingredients":{
+                "turkey mince": "100 g",
+                "bell pepper":"1",
+                "parsley": "1 tsp"
+            }, 
+            "recipe":"Preheat a grill for high heat. In a bowl, mix the turkey, peppers and parsley, and season with salt and pepper.\nForm the mixture into patties. Cook patties about 8 minutes per side on the prepared grill, to an internal temperature of 90°C"
+        },
+        {
+            "key":109,
+            "recipeName":"Spicy Italian Beef",
+            "tags":["main", "beef"],
+            "ingredients":{
+                "beef chops": "175 g",
+                "olive oil": "1 tsp",
+                "garlic": "1 tsp",
+                "tomato":"1/2",
+                "broth": "1 Tbsp",
+                "parsley": "1 tsp",
+                "cayenne pepper": "1/2 tsp"
+            }, 
+            "recipe":"Heat olive oil in a skillet over medium-high heat. Season the beef chops with salt and pepper, and quickly sear on both sides. Remove from heat, and set aside. Heat the remaining olive oil in the skillet over medium-high heat, and saute the garlic about 30 seconds. Mix in the tomato, chicken broth, parsley, and red pepper flakes. Cook and stir until thickened, about 2 minutes. Return the beef chops to the skillet, and continue cooking 5 to 10 minutes. Serve beef with the tomato and broth mixture from the skillet."
+        },
+        {
+            "key":110,
+            "recipeName":"Salmon with Lemon",
+            "tags":["main", "fish", "salmon"],
+            "ingredients":{
+                "salmon": "100 g",
+                "butter": "1 tsp",
+                "lemon": "1",
+                "dill": "1 pinch"
+            }, 
+            "recipe":"Preheat oven to 170°C. Lightly grease a medium baking dish.\nPlace salmon in the baking dish. Mix the butter and lemon juice in a small bowl, and drizzle over the salmon.\nSeason with dill, garlic powder, sea salt, and pepper.\nBake 25 minutes in the preheated oven, or until salmon is easily flaked with a fork."
+        },
+        {
+            "key":111,
+            "recipeName":"Broiled Halibut",
+            "tags":["fish", "main"],
+            "ingredients":{
+                "fish": "100 g",
+                "parmesan": "1 Tbsp",
+                "onion": "1/2 Tbsp",
+                "dill": "1 pinch",
+                "salt": "1 pinch"
+            }, 
+            "recipe":"Preheat the oven to 175°C.\nPlace halibut in the prepared baking dish. Mix, green onions, salt, white pepper, and dill in a bowl. Spread mixture over halibut.\nBake halibut in preheated oven until fish flakes easily with a fork, 20 to 25 minutes.\nRemove halibut from the oven and sprinkle with Parmesan cheese.\nPlace under preheat broiler and broil until cheese is lightly browned, 2 to 3 minutes."
+        },
+        {
+            "key":112,
+            "recipeName":"Blackened Salmon Fillets",
+            "tags":["fish", "salmon", "main"],
+            "ingredients":{
+                "fish": "100 g",
+                "cayenne pepper": "3/2 tsp",
+                "paprika": "1 tsp",
+                "onion powder": "after taste",
+                "black pepper": "1 pinch",
+                "white pepper": "1/3 tsp",
+                "basil": "1/3 tsp"
+            }, 
+            "recipe":"In a small bowl, mix paprika, cayenne pepper, onion powder, salt, white pepper, black pepper, thyme, basil, and oregano.\nSprinkle salmon fillets evenly with the cayenne pepper mixture.\nDrizzle one side of each fillet with coconut butter. In a large, heavy skillet overhigh heat, cook salmon, butter side down, until blackened, 2 to 5 minutes.\nTurn fillets, drizzle with remaining coconut butter and continue cooking until blackened and fish is easily flaked with a fork."
+        },
+        {
+            "key":113,
+            "recipeName":"Thai Turkey Lettuce Cups",
+            "tags":["turkey", "main"],
+            "ingredients":{
+                "ground turkey": "100 g",
+                "cucumber": "1/2 cup",
+                "carrots": "1/2 cup",
+                "rice vinegar": "1 Tbsp",
+                "butter": "10 g",
+                "lettuce": "3 leaves",
+                "mint": "1 Tbsp",
+                "canola oil": "3 tablespoons ",
+                "soy sauce": "1 tsp"
+            }, 
+            "recipe":"Combine 2 tablespoons oil, soy sauce, sugar, and vinegar in a bowl, stirring with a whisk.\nHeat remaining 1 tablespoon oil in a large nonstick skillet over medium.\nAdd turkey; cook 7 minutes or until lightly browned, stirring to crumble.\nAdd 1/4 cup soy sauce mixture; cook 4 minutes or until liquid is absorbed.\nPlace about 3 tablespoons turkey mixture in each lettuce leaf; top evenly with cucumber, carrots, and peanuts. Drizzle evenly with remaining soy sauce mixture. Sprinkle with mint."
+        },
+        {
+            "key":114,
+            "recipeName":"Crispy Chicken",
+            "tags":["main", "chicken"],
+            "ingredients":{
+                "chicken breast": "100 g",
+                "bread crumbs": "1 Tbsp",
+                "herbs": "2/3 Tbsp"
+            }, 
+            "recipe":"Preheat oven to 190°C.\nCombine herbs and bread crumbs in a plastic bag. Add chicken and shake until coated.\nPlace coated chicken pieces on an ungreased cookie sheet and bake in preheated oven for 25 to 30 minutes, or until chicken is cooked through and juices run clear."
+        },
+        {
+            "key":115,
+            "recipeName":"Creamy Skillet Noodles with Peas",
+            "tags":["sides", "vegetarian"],
+            "ingredients":{
+                "butter": "20 g",
+                "canola oil": "1/2 Tbsp",
+                "egg noodles": "100 g",
+                "frozen peas": "60 g",
+                "cream": "20 g"
+            }, 
+            "recipe":"In a large skillet, heat butter and oil over medium heat. Add noodles; cook and stir 2-3 minutes or until lightly browned. Stir in peas, broth, cream, salt and pepper. Bring to a boil. Reduce heat; simmer, covered, 10-12 minutes or until noodles are tender, stirring occasionally."
+        },
+        {
+            "key":116,
+            "recipeName":"Rice with mushrooms",
+            "tags":["sides", "vegetarian", "vegan"],
+            "ingredients":{
+                "rice": "30 g",
+                "salt and pepper": "after taste",
+                "olive oil": "1 tsp",
+                "butter": "10 g",
+                "mushrooms": "150 g",
+                "garlic cloves": "1/2",
+                "onion": "1/2",
+                "green onion": "1/2 cup"
+            }, 
+            "recipe":"Heat oil in a large pot over high heat. Add half the mushrooms, and cook for 5 minutes until golden. Season with salt and pepper then remove and set aside. If the pot is dry, add butter. When melted, add onions and garlic.\nCook for 30 seconds, then add remaining mushrooms. Cook for 5 minutes or until mushrooms are lightly browned and the base of the pot is brown.\nAdd rice and a splash of broth. Mix so the brown stuff on the bottom of the pot mixes into the liquid.\nOnce the base of the pot is clean, add remaining liquid. Place lid on, bring to asimmer then turn down to medium low.\nCook for 15 minutes or until there is no residual liquid\nRemove from stove, remove lid, QUICKLY toss in reserved mushrooms and scallions, put lid back on. Leave for 10 minutes\nFluff rice."
+        },
+        {
+            "key":117,
+            "recipeName":"Rice with vegetables",
+            "tags":["sides", "vegetarian", "vegan"],
+            "ingredients":{
+                "long rice": "80 g",
+                "frozen vegetables": "100 g",
+                "water": "200 ml"
+            }, 
+            "recipe":"In a large saucepan, combine the rice, water, and salt; bring to a boil. Add the vegetables; return to a boil. Reduce heat; cover and simmer for 15 minutes. Cook until rice and vegetables are tender."
+        },
+        {
+            "key":118,
+            "recipeName":"Spring Salad",
+            "tags":["sides", "vegetarian", "vegan", "salad"],
+            "ingredients":{
+                "spring greens": "35 g", 
+                "cucumber": "1/4",
+                "red onion": "1/8",
+                "olive oil": "3/4 tbsp",
+                "lemon juice": "1/4 Tbsp",
+                "nuts": "15 g",
+                "dijon mustard": "1/4 tsp", 
+                "garlic": "1 clove",
+                "sea salt": "1/8 tsp",
+                "pepper": "after taste"
+            }, 
+            "recipe":"Combine all ingredients in a large salad bowl and toss until evenly combined. Serve immediately and enjoy!"
+        },
+        {
+            "key":119,
+            "recipeName":"Fresh Veggie Salad",
+            "tags":["sides", "vegetarian", "vegan", "salad"],
+            "ingredients":{
+                "tomatoes": "100 g",
+                "cucumber": "100 g",
+                "basil": "2 Tbsp",
+                "olive oil": "1 tsp",
+                "balsamic vinegar": "1 tsp",
+                "salt and pepper": "after taste"
+            }, 
+            "recipe":"Combine the tomatoes, cucumbers, and basil in a bowl.\nDrizzle with olive oil and vinegar.\nSprinkle with salt and pepper. Stir well to coat. "
+        },
+        {
+            "key":120,
+            "recipeName":"Avocado Cucumber Salad",
+            "tags":["sides", "vegan", "vegetarian", "salad"],
+            "ingredients":{
+                "cucumber": "1/3",
+                "avocado": "1/2", 
+                "cilantro": "1/4 cup",
+                "lemon juice": "2 Tbsp",
+                "lime juice": "2 Tbsp"
+            }, 
+            "recipe":"Place chopped cucumber, avocado, and cilantro in a medium bowl. \nAdd lemon juice or lime juice, and sea salt to the chopped vegetables.\nToss gently to combine. Taste and add sea salt to taste.\nLeave to sit and “marinate” for 5: 15 minutes. "
+        },
+        {
+            "key":121,
+            "recipeName":"Arugula and Tomatoes Salad",
+            "tags":["sides", "vegan", "vegetarian", "salad"],
+            "ingredients":{
+                "augula": "60 g",
+                "grape tomatoes": "20 g",
+                "lemon zest": "30 ml",
+                "olive oil": "1 tsp",
+                "balsamic vinegar": "1/2 Tbsp",
+                "salt and pepper": "after taste"
+            }, 
+            "recipe":"In a large salad or mixing bowl, combine arugula, halved grape tomatoes and the zest of an entire medium lemon.\nIn a separate bowl, whisk olive oil, balsamic vinegar, salt, and pepper together until well mixed.\nWhen ready to serve, pour dressing over salad, toss until well coated."
+        },
+        {
+            "key":122,
+            "recipeName":"Cottage Cheese with Fruits",
+            "tags":["breakfast"],
+            "ingredients":{
+                "cottage cheese": "250 g",
+                "fruit slices": "after taste"
+            }, 
+            "recipe":"Add honey and raisins to your taste"
+        },
+        {
+            "key":123,
+            "recipeName":"Marinated Chicken",
+            "tags":["main", "chicken"],
+            "ingredients":{
+                "chicken breast": "100 g",
+                "clove garlic": "2/3 Tbsp",
+                "soy sauce": "2 Tbsp"
+            }, 
+            "recipe":"In a large, nonporous bowl, combine the garlic and the soy sauce. Add the chicken and turn to coat well. Cover and marinate in the refrigerator for at least an hour. Preheat an outdoor grill for medium-high heat. Grill chicken over medium-high heat for 10 to 15 minutes per side, or until internal temperature reaches 80°C. Discard any remaining marinade."
+        },
+        {
+            "key":124,
+            "recipeName":"Grilled Cod with Spinach",
+            "tags":["main", "fish"],
+            "ingredients":{
+                "cod": "75 g",
+                "baby spinach": "50 g",
+                "garlic powder": "2/3 tbsp",
+                "tomato": "1",
+                "onion": "1 Tbsp",
+                "mozzarella": "1 Tbsp",
+                "olive oil": "1 tsp",
+                "balsamic vinegar": "1/2 Tbsp"
+            }, 
+            "recipe":"Preheat a grill for medium-high heat.\nPlace cod on a piece of aluminum foil and season with salt, black pepper, and garlic powder.\nTop cod with spinach, tomato, and onion and season again with salt and black pepper.\nDrizzle olive oil and balsamic vinegar over cod and top with mozzarella cheese.\nFold foil over cod creating a packet, crimping the edges together making a seal.\nCook on the preheated grill until fish flakes easily with a fork, 7 to 9 minutes."
+        },
+        {
+            "key":125,
+            "recipeName":"Golden Pork Chops",
+            "tags":["main", "pork"],
+            "ingredients":{
+                "pork chops": "75 g",
+                "mushrooms": "35 g",
+                "onion": "2 Tbsp"
+            }, 
+            "recipe":"Preheat oven to 190°C.\nRinse pork chops, pat dry, and season with seasoned salt and pepper. Place them in a baking dish.\nCombine onion and mushrooms in a separate small bowl. Mix together and spoon over chops.\nCover and bake in preheated oven for 45 minutes. Uncover and bake for 15 more minutes. (Note: Time could be less or more depending on the thickness of chops.)\nPork chops are done with their internal temperature.\nPour sauce into a medium pot and bring to a simmer. Whisk together cornstarch and sauce in a small bowl. Whisk into the pot and simmer until thickened, about 2 minutes longer. Serve with pork chops."
+        },
+        {
+            "key":126,
+            "recipeName":"Mashed Potato",
+            "tags":["sides", "vegetarian"],
+            "ingredients":{
+                "potato": "1",
+                "salt and pepper": "after taste",
+                "milk": "20 ml", 
+                "dill": "1 pinch",
+                "butter": "10 g"
+            }, 
+            "recipe":"Bring a pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes; drain. In a small saucepan heat butter and milk over low heat until butter is melted. Using a potato masher or electric beater, slowly blend milk mixture into potatoes until smooth and creamy. Season with salt and pepper to taste."
+        },
+        {
+            "key":127,
+            "recipeName":"Grilled Mushrooms",
+            "tags":["sides", "vegetarian", "vegan"],
+            "ingredients":{
+                "mushrooms": "120 g",
+                "butter": "15 g",
+                "dill": "1 pinch",
+                "salt and pepper": "after taste",
+                "vegetables": "after taste"
+            }, 
+            "recipe":"Thread mushrooms on four metal or soaked wooden skewers. Combine butter, dill and garlic salt; brush over mushrooms.\nGrill over medium-high heat for 10-15 minutes or until tender, basting and turning every 5 minutes."
+        },
+        {
+            "key":128,
+            "recipeName":"Healthy Avocado Salad",
+            "tags":["side", "salad", "vegetarian", "vegan"],
+            "ingredients":{
+                "avocado": "1/2", 
+                "tomato": "1/2",
+                "white onion": "1/4",
+                "cucumber": "1/4", 
+                "olive oil": "2 Tbsp",
+                "salt and pepper": "after taste"
+            }, 
+            "recipe":"Cut and peel an avocado.\nCut tomatoes, onions, cucumber, and avocado into bite-size pieces.\nPour in olive oil and season with salt and pepper.\nToss everything together and serve."
+        },
+        {
+            "key":129,
+            "recipeName":"Classic French Omelette",
+            "tags":["breakfast", "eggs", "vegetarian"],
+            "ingredients":{
+                "eggs": "3",
+                "milk": "2 Tbsp",
+                "cheese": "2 Tbsp",
+                "butter": "1/2 Tbsp",
+                "salt and pepper": "after taste"
+            }, 
+            "recipe":"Beat eggs, water, salt and pepper in small bowl until blended. Heat butter in 6 to 8-inch nonstick omelet pan or skillet over medium-high heat until hot. Tilt pan to coat bottom.\nPour in egg mixture. Mixture should set immediately at edges. Gently push cooked portions from edges toward the center with inverted turner so that uncooked eggs can reach the hot pan surface.\nContinue cooking, tilting pan and gently moving cooked portions as needed. When top surface of eggs is thickened and no visible liquid egg remains, Place cheese on one side of the omelet. Fold omelet in half with turner."
+        },
+        {
+            "key":130,
+            "recipeName":"Triple-Berry blend",
+            "tags":["breakfast", "smoothie"],
+            "ingredients":{
+                "mixed berries": "1 + 1/2 cup",
+                "yogurt": "1 cup",
+                "honey": "1 Tbsp",
+                "almonds": "10 g"
+            }, 
+            "recipe":"Blend"
+        },
+        {
+            "key":131,
+            "recipeName":"Picante chicken",
+            "tags":["main", "chicken"],
+            "ingredients":{
+                "chicken": "100 g",
+                "Picante sauce": "1 Tbsp"
+            }, 
+            "recipe":"Put Picante sauce into a large saucepan. Add chicken breasts to Picante sauce and bring to a steady boil. Boil gently for 20 to 25 minutes or until the chicken is no longer pink inside and the juices run clear."
+        },
+        {
+            "key":132,
+            "recipeName":"Grilled Beef Chops",
+            "tags":["main", "beef"],
+            "ingredients":{
+                "beef chops": "100 g",
+                "garlic": "1/2 tsp",
+                "water": "1 Tbsp",
+                "soy sauce": "1 Tbsp",
+                "salt and pepper": "after taste",
+                "coconut oil": "1 Tbsp",
+                "lemon pepper seasoning": "1 tsp"
+            }, 
+            "recipe":"Mix water, soy sauce, coconut oil, lemon pepper seasoning, and minced garlic in a deep bowl, add beef chops and marinate in refrigerator at least 2 hours (if you want). Preheat the grill for medium-high heat. Remove beef chops from the marinade and shake off excess.\nDiscard the remaining marinade. Cook the beef chops on the preheated grill until no longer pink in the center, 5 to 6 minutes per side. An instant-read thermometer inserted into the center should read 60°C"
+        },
+        {
+            "key":133,
+            "recipeName":"Fluffy Scrambled Eggs",
+            "tags":["breakfast", "eggs"],
+            "ingredients":{
+                "eggs": "3",
+                "salt and pepper": "after taste",
+                "milk": "2 tbsp",
+                "butter": "1/2 Tbsp"
+            }, 
+            "recipe":"Beat eggs with salt in a small bowl. In a nonstick skillet, melt butter over medium-high heatuntil foamy. Add eggs and cook, stirring, until large, fluffy curds form and eggs are fullycooked through, about 3 minutes. Season with pepper and serve."
+        },
+        {
+            "key":134,
+            "recipeName":"Broiled fish",
+            "tags":["main", "fish"],
+            "ingredients":{
+                "fish": "100 g",
+                "parmesan": "2 Tbsp",
+                "salt and pepper": "after taste",
+                "lemon": "1",
+                "basil": "1/2 tsp"
+            }, 
+            "recipe":"Preheat your oven’s broiler. Grease a broiling pan or line pan with aluminium foil.\nIn a small bowl, mix together the Parmesan cheese and lemon juice.\nSeason with dried basil, pepper, onion powder, and celery salt. Mix well and set aside. Arrange fillets in a single layer on the prepared pan.\nBroil for 2 to 3 minutes. Flip the fillets over and broil for a couple more minutes. Remove the fillets from the oven and cover them with the Parmesan cheese mixture on the top side.\nBroil for 2 more minutes or until the topping is browned and fish flakes easily with a fork. Be careful not to overcook the fish."
         }
     ]
 }
