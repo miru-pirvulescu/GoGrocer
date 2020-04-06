@@ -8,7 +8,7 @@ export const styles = StyleSheet.create({
     color: 'green',
   },
   scrollView: {
-    backgroundColor: 'grey',
+    backgroundColor: 'white',
   },
   recipeCard: {
     width: Dimensions.get('window').width - 70,
