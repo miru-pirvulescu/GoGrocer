@@ -15,10 +15,7 @@ function openModal() {
 export default function RecipeCard({key, recipe, recipeName}) {
   return (
     <>
-      <Card
-        containerStyle={styles.recipeCard}
-        title={recipeName}
-        image={require('../../assets/img/test.png')}>
+      <Card containerStyle={styles.recipeCard} title={recipeName}>
         <Button title="View recipe" onPress={() => openModal()} />
       </Card>
     </>
